@@ -1,0 +1,27 @@
+{
+  "name": "express-mock",
+  "version": "1.0.0",
+  "description": "use expres to build a mock server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulongge/express-mock.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "mock"
+  ],
+  "author": "geyulong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yulongge/express-mock/issues"
+  },
+  "homepage": "https://github.com/yulongge/express-mock#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
