@@ -1,0 +1,65 @@
+{
+    "errcode":0,
+    "errmsg":"success",
+    "data": {
+		"list": [
+
+			{
+				"ppid":"100023",
+				"ppName":"一等奖",
+				"paid":"116",
+				"ppType":"3",
+				"ppCouponId":"0",
+				"ppOneCount":"11",
+				"ppTotalCount":"123123",
+				"ppSendCount":"0",
+				"ppStock":"123123",
+				"ppDesc":"此等奖品，太牛叉了"
+			},
+			{
+				"ppid":"100023",
+				"ppName":"二等奖",
+				"paid":"116",
+				"ppType":"1",
+				"ppCouponId":"0",
+				"ppOneCount":"11",
+				"ppTotalCount":"123123",
+				"ppSendCount":"0",
+				"ppStock":"123123",
+				"ppDesc":"此等奖品，太牛叉了"
+			},
+			{
+				"ppid":"100023",
+				"ppName":"三等奖",
+				"paid":"116",
+				"ppType":"2",
+				"ppCouponId":"0",
+				"ppOneCount":"11",
+				"ppTotalCount":"123123",
+				"ppSendCount":"0",
+				"ppStock":"123123",
+				"ppDesc":"此等奖品，太牛叉了"
+			}
+			,{
+				"ppid":"100023",
+				"ppName":"特等奖",
+				"paid":"116",
+				"ppType":"3",
+				"ppCouponId":"0",
+				"ppOneCount":"11",
+				"ppTotalCount":"123123",
+				"ppSendCount":"0",
+				"ppStock":"123123",
+				"ppDesc":"此等奖品，太牛叉了"
+			}
+		],
+		"page":{
+			"perPage":100,
+			"currentPage":1,
+			"totalItems":1,
+			"showMorePage":true,
+			"start":0,
+			"to":99
+		}
+	}
+}

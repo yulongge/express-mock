@@ -1,0 +1,8 @@
+{
+    "errcode": 0,
+    "errmsg": "success",
+    "data": {
+        "trade_state": 1,
+        "trade_state_desc": "支付完成"
+    }
+}

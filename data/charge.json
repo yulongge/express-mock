@@ -1,0 +1,11 @@
+{
+    "errcode": 0,
+    "errmsg": "success",
+    "data": {
+        "amount": 10,
+        "payment": "weixin",
+        "id": "1707052602587448",
+        "qrcodeUrl": "https://wlpublicmedias.oss-cn-beijing.aliyuncs.com/commonqrcodes/qrcode_2589123516_749223d328dfafdc5e1dc0592e096aa6.png",
+        "validUntil": "2017-07-05 13:56:54"
+    }
+}

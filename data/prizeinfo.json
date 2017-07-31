@@ -1,0 +1,16 @@
+ {
+    "errcode": 0,
+    "errmsg": "success",
+    "data": {
+        "ppid": "100023",
+        "ppName": "11",
+        "paid": "116",
+        "ppType": "3",
+        "ppCouponId": "0",
+        "ppOneCount": "11",
+        "ppTotalCount": "123123",
+        "ppSendCount": "0",
+        "ppStock": "123123",
+        "ppDesc": "无敌这"
+    }
+}

@@ -1,0 +1,189 @@
+{
+	"errcode": "0",
+	"errmsg": "success",
+	"data": {
+		"pid": "1231",
+		"pType": "212",
+		"ptName": "积分营销类，促进顾客消费欲，提升营业额",
+		"pHeadPic": "http://localhost:9090/ins.png",
+		"pName": "幸运大转盘积分翻倍抽奖",
+		"pDesc": "《幸运大转盘抽奖》插件是由畅游游戏公司自主研发的日式风格H5互动小游戏。经典的抽奖活动，有趣的互动，奖品可自行设置；截至到17年9月，有8000家公司使用该游戏接入微信平台，成为新一轮拉粉厉器",
+		"pHighlights": "《幸运大转盘抽奖》插件是由畅游游戏公司自主研发的日式风格H5互动小游戏。经典的抽奖活动，有趣的互动，奖品可自行设置；截至到17年9月，有8000家公司使用该游戏接入微信平台，成为新一轮拉粉厉器",
+		"price": 100,
+		"pDescPic": ["http://localhost:9090/detail_plugin.png", "http://localhost:9090/detail_plugin.png", "http://localhost:9090/detail_plugin.png", "http://localhost:9090/detail_plugin.png", "http://localhost:9090/detail_plugin.png", "http://localhost:9090/detail_plugin.png"],
+		"pReleaseDate": "2017-05-03",
+		"pcid": "2133",
+		"pcName": "网易游戏",
+		"pConf": [
+				    {
+				        "type":1,
+				        "cGroupName":"",
+				        "cGroupAliasName":"",
+				        "cName":"是否重复获奖",
+				        "cAliasName":"repeat",
+				        "cDataType":"radio",
+				        "cDataExt":[
+							{
+								"v": true,
+								"n": "是"
+							},
+							{
+								"v": false,
+								"n": "否"
+							}
+						],
+				        "cDesc":"是（即用户可反复挑战得奖），可设置用户玩游戏时间（从用户玩游戏开始算起，比如：挑战赛时间是10分钟，A用户从8：00开始玩，则8.11时，A用户当天就不能再次挑战，B用户从13：00开始挑战，13：11时，B用户当天就不能再次挑战。） 否（即用户当天玩游戏只能挑战一次，且根据挑战的分数只能匹配一次奖品）。"
+				    },
+				    {
+				        "type":1,
+				        "cGroupName":"",
+				        "cGroupAliasName":"",
+				        "cName":"游戏时间",
+				        "cAliasName":"game_time",
+				        "cDataType":"date",
+				        "cDataExt":"",
+				        "cDesc":"勾选重复后显示，数字，0——1440分钟"
+				    },
+					{
+				        "type":1,
+				        "cGroupName":"",
+				        "cGroupAliasName":"",
+				        "cName":"游戏名称",
+				        "cAliasName":"game_name",
+				        "cDataType":"string",
+				        "cDataExt":"",
+				        "cDesc":"勾选重复后显示，数字，0——1440分钟"
+				    },
+					{
+				        "type":1,
+				        "cGroupName":"",
+				        "cGroupAliasName":"",
+				        "cName":"游戏封面",
+				        "cAliasName":"game_img",
+				        "cDataType":"image",
+				        "cDataExt":"",
+				        "cDesc":"勾选重复后显示，数字，0——1440分钟"
+				    },
+					{
+				        "type":1,
+				        "cGroupName":"",
+				        "cGroupAliasName":"",
+				        "cName":"游戏配置",
+				        "cAliasName":"game_conf",
+				        "cDataType":"checkbox",
+				        "cDataExt": [
+							{
+								"v": true,
+								"n": "是"
+							},
+							{
+								"v": false,
+								"n": "否"
+							}
+						],
+				        "cDesc":"勾选重复后显示，数字，0——1440分钟"
+				    },
+					{
+				        "type":1,
+				        "cGroupName":"",
+				        "cGroupAliasName":"",
+				        "cName":"游戏奖品",
+				        "cAliasName":"game_prize",
+				        "cDataType":"prize",
+				        "cDataExt":"",
+				        "cDesc":"勾选重复后显示，数字，0——1440分钟"
+				    },
+					{
+				        "type":1,
+				        "cGroupName":"",
+				        "cGroupAliasName":"",
+				        "cName":"游戏时间",
+				        "cAliasName":"game_time",
+				        "cDataType":"num",
+				        "cDataExt":"",
+				        "cDesc":"勾选重复后显示，数字，0——1440分钟"
+				    },
+				    {
+				        "type":2,
+				        "cGroupName":"获奖配置",
+				        "cGroupAliasName":"prize",
+				        "cName":"游戏分达到",
+				        "cAliasName":"score",
+				        "cDataType":"num",
+				        "cDataExt":"",
+				        "cDesc":""
+				    },
+				    {
+				        "type":2,
+				        "cGroupName":"获奖配置",
+				        "cGroupAliasName":"prize",
+				        "cName":"奖品ID",
+				        "cAliasName":"template_id",
+				        "cDataType":"prize",
+				        "cDataExt":"",
+				        "cDesc":""
+				    },
+				    {
+				        "type":2,
+				        "cGroupName":"获奖配置",
+				        "cGroupAliasName":"prize",
+				        "cName":"奖品名称",
+				        "cAliasName":"template_name",
+				        "cDataType":"string",
+				        "cDataExt":"",
+				        "cDesc":""
+				    },
+					{
+				        "type":2,
+				        "cGroupName":"获奖配置",
+				        "cGroupAliasName":"prize",
+				        "cName":"游戏分达到",
+				        "cAliasName":"score",
+				        "cDataType":"num",
+				        "cDataExt":"",
+				        "cDesc":""
+				    },
+				    {
+				        "type":2,
+				        "cGroupName":"获奖配置",
+				        "cGroupAliasName":"prize",
+				        "cName":"奖品ID",
+				        "cAliasName":"template_id",
+				        "cDataType":"prize",
+				        "cDataExt":"",
+				        "cDesc":""
+				    },
+				    {
+				        "type":2,
+				        "cGroupName":"获奖配置",
+				        "cGroupAliasName":"prize",
+				        "cName":"奖品名称",
+				        "cAliasName":"template_name",
+				        "cDataType":"string",
+				        "cDataExt":"",
+				        "cDesc":""
+				    },
+					{
+				        "type":2,
+				        "cGroupName":"获奖配置",
+				        "cGroupAliasName":"test",
+				        "cName":"奖品ID",
+				        "cAliasName":"template_id",
+				        "cDataType":"prize",
+				        "cDataExt":"",
+				        "cDesc":""
+				    },
+				    {
+				        "type":2,
+				        "cGroupName":"获奖配置",
+				        "cGroupAliasName":"test",
+				        "cName":"奖品名称",
+				        "cAliasName":"template_name",
+				        "cDataType":"string",
+				        "cDataExt":"",
+				        "cDesc":""
+				    }
+				]
+
+	}
+}

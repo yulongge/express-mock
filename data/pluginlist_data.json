@@ -1,0 +1,117 @@
+{
+	"errcode": 0,
+	"errmsg": "success",
+	"data": {
+		"list": [
+
+			{
+				"pid": "1",
+				"pInfo": {
+					"pid": "1",
+					"pName": "开心消消乐",
+					"price": "100",
+					"pHeadPic": "http://localhost:9090/ins.png"
+				},
+				"paInfo": {
+					"paid": "118",
+					"paUrl": "http://lxb.h5.dev.acewill.net/frontend/redirect/2Dp",
+					"paName": "开心消消乐",
+					"pid": "1",
+					"paFee": "100",
+					"paPayStatus": "10",
+					"paStatus": "20",
+					"paActivityStart": "2017-07-03 00:00:00",
+					"paActivityEnd": "2018-07-03 23:59:59"
+				}
+			},
+			{
+				"pid": "2",
+				"pInfo": {
+					"pid": "2",
+					"pName": "开心消消乐",
+					"price": "100",
+					"pHeadPic": "http://localhost:9090/ins.png"
+				},
+				"paInfo": {
+					"paid": "118",
+					"paUrl": "http://lxb.h5.dev.acewill.net/frontend/redirect/2Dp",
+					"paName": "开心消消乐",
+					"pid": "1",
+					"paFee": "100",
+					"paPayStatus": "10",
+					"paStatus": "21",
+					"paActivityStart": "2017-07-03 00:00:00",
+					"paActivityEnd": "2018-07-03 23:59:59"
+				}
+			},
+			{
+				"pid": "3",
+				"pInfo": {
+					"pid": "3",
+					"pName": "开心消消乐",
+					"price": "100",
+					"pHeadPic": "http://localhost:9090/ins.png"
+				},
+				"paInfo": {
+					"paid": "118",
+					"paUrl": "http://lxb.h5.dev.acewill.net/frontend/redirect/2Dp",
+					"paName": "开心消消乐",
+					"pid": "1",
+					"paFee": "100",
+					"paPayStatus": "10",
+					"paStatus": "1",
+					"paActivityStart": "2017-07-03 00:00:00",
+					"paActivityEnd": "2018-07-03 23:59:59"
+				}
+			},
+			{
+				"pid": "4",
+				"pInfo": {
+					"pid": "3",
+					"pName": "开心消消乐",
+					"price": "100",
+					"pHeadPic": "http://localhost:9090/ins.png"
+				},
+				"paInfo": {
+					"paid": "118",
+					"paUrl": "http://lxb.h5.dev.acewill.net/frontend/redirect/2Dp",
+					"paName": "开心消消乐",
+					"pid": "1",
+					"paFee": "100",
+					"paPayStatus": "10",
+					"paStatus": "10",
+					"paActivityStart": "2017-07-03 00:00:00",
+					"paActivityEnd": "2018-07-03 23:59:59"
+				}
+			},
+			{
+				"pid": "5",
+				"pInfo": {
+					"pid": "3",
+					"pName": "开心消消乐",
+					"price": "100",
+					"pHeadPic": "http://localhost:9090/ins.png"
+				},
+				"paInfo": {
+					"paid": "118",
+					"paUrl": "http://lxb.h5.dev.acewill.net/frontend/redirect/2Dp",
+					"paName": "开心消消乐",
+					"pid": "1",
+					"paFee": "100",
+					"paPayStatus": "10",
+					"paStatus": "9",
+					"paActivityStart": "2017-07-03 00:00:00",
+					"paActivityEnd": "2018-07-03 23:59:59"
+				}
+			}
+		],
+		"page": {
+			"perPage": 10,
+			"currentPage": 1,
+			"totalItems": 3,
+			"showMorePage": false,
+			"start": 0,
+			"to": 9
+		}
+	}
+}

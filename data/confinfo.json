@@ -1,0 +1,31 @@
+{
+    "errcode": 0,
+    "errmsg": "success",
+    "data": {
+        "paid": "116",
+        "paUrl": "http://lxb.h5.dev.acewill.net/frontend/redirect/2Dn",
+        "paName": "123",
+        "paDesc": "123",
+        "pid": "1",
+        "paFee": "0",
+        "paPayStatus": "10",
+        "paPayTime": "2017-05-12 21:59:59",
+        "paStatus": "10",
+        "paActivityStart": "2017-05-12 00:00:00",
+        "paActivityEnd": "2017-05-12 23:59:59",
+        "paConf": {
+            "repeat": true,
+            "game_time": 123,
+            "prize": [
+                {
+                    "score": 123,
+                    "template_id": 100023,
+                    "template_name": 123
+                }
+            ]
+        },
+        "days": "30",
+        "paCreator": "123132",
+        "paCreatorName": "创建人"
+    }
+}

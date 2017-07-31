@@ -1,0 +1,80 @@
+{
+	"errcode": "0",
+	"errmsg": "success",
+	"data": {
+		"banner": [
+			{
+				"pid": "1",
+				"pName": "王者荣耀",
+				"pbBannerPic": "http://localhost:9090/banner.png"	
+			},
+			{
+				"pid": "2",
+				"pName": "王者荣耀之无敌字体，天下无敌唯我至尊",
+				"pbBannerPic": "http://localhost:9090/banner.jpg"	
+			},
+			{
+				"pid": "3",
+				"pName": "圣经，创世纪，神说要有光，于是便有了光，哪有什么为什么.",
+				"pbBannerPic": "http://localhost:9090/banner.png"	
+			},
+			{
+				"pid": "4",
+				"pName": "王者荣耀",
+				"pbBannerPic": "http://localhost:9090/banner.jpg"	
+			}
+		],
+		"hot": [
+			{
+				"pid": "000001",
+				"pHeadPic": "http://localhost:9090/card.png",
+				"pName": "王者荣耀",
+				"pHighlights": "圣经，创世纪，神说要有光，于是便有了光圣经，创世纪，神说要有光，于是便有了光，哪有什么为什么.增加用户消费频率"
+			},
+			{
+				"pid": "000002",
+				"pHeadPic": "http://localhost:9090/card.png",
+				"pName": "王者荣耀",
+				"pHighlights": "神说要有光，于是便有了光</br>神说要有光，于是便有了光</br>圣经，创世纪，神说要有光"
+			},
+			{
+				"pid": "000003",
+				"pHeadPic": "http://localhost:9090/card.png",
+				"pName": "王者荣耀",
+				"pHighlights": "增加用户消费频率"
+			},
+			{
+				"pid": "000004",
+				"pHeadPic": "http://localhost:9090/card.png",
+				"pName": "王者荣耀",
+				"pHighlights": "增加用户消费频率"
+			}
+		],
+		"new": [
+			{
+				"pid": "000001",
+				"pHeadPic": "http://localhost:9090/card.png",
+				"pName": "王者荣耀",
+				"pHighlights": "增加用户消费频率"
+			},
+			{
+				"pid": "000001",
+				"pHeadPic": "http://localhost:9090/card.png",
+				"pName": "王者荣耀",
+				"pHighlights": "增加用户消费频率"
+			},
+			{
+				"pid": "000001",
+				"pHeadPic": "http://localhost:9090/card.png",
+				"pName": "王者荣耀",
+				"pHighlights": "增加用户消费频率"
+			},
+			{
+				"pid": "000001",
+				"pHeadPic": "http://localhost:9090/card.png",
+				"pName": "王者荣耀",
+				"pHighlights": "增加用户消费频率"
+			}
+		]
+	}
+}

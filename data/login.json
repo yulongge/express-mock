@@ -1,0 +1,18 @@
+{
+    "errcode":0,
+    "errmsg":"success",
+    "data":{
+        "manager_multi":{
+            "1936458849":{
+                "name":"welife测试组",
+                "mid":"1229996396",
+                "beTradeType":"1"
+            },
+            "4078450859":{
+                "name":"史努比",
+                "mid":"1163623468",
+                "beTradeType":"2"
+            }
+        }
+    }
+}

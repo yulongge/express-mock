@@ -1,0 +1,114 @@
+{
+	"errcode": 0,
+	"errmsg": "ok",
+	"data": {
+		"pid": "1",
+		"pName": "开心消消乐",
+		"pType": "2",
+		"pHeadPic": "https://wlpublicmedias.oss-cn-beijing.aliyuncs.com/boss/plugins//2017/06/28/38326e362106360d4c35b692c40aea0e061640.jpg",
+		"pHighlights": "插件亮点,插件亮点插件亮点插件亮点 插件亮点插件亮点,插件亮点 插件亮点 插件亮点",
+		"pDesc": "提供方：海海游戏平台 玩法说明： 经典的飞机大战游戏，结合新型的武器，战姬带你Hi起来 游戏类型：H5/动作/经典/非下载 受欢迎程度：86.3% 游戏亮点： 1.经典的飞机大战游戏配合潮流的人物设定及新型的武器，结合优质的画面，刺激的音效，是玩家的最爱 2.游戏可设置奖品、优惠券，、积分等，可分享 3.适用范围：市场活动、新品营销、开业活动等 4.游戏时长：2-5分钟",
+		"price": "1",
+		"pDescPic": [
+			"https://wlpublicmedias.oss-cn-beijing.aliyuncs.com/boss/plugins//2017/03/15/8544150b0e2b5f9de63685f7ee73bcd3031112.jpg",
+			"https://wlpublicmedias.oss-cn-beijing.aliyuncs.com/boss/plugins//2017/03/15/9bf7c88c55616f28000bab0cb3e2b99a031119.jpg",
+			"https://wlpublicmedias.oss-cn-beijing.aliyuncs.com/boss/plugins//2017/03/15/d15ffa42475ae6141565d8c06124c57f031125.jpg",
+			"https://wlpublicmedias.oss-cn-beijing.aliyuncs.com/boss/plugins//2017/03/24/cb7f81e851d3448480333c911222260d031555.jpg",
+			"https://wlpublicmedias.oss-cn-beijing.aliyuncs.com/boss/plugins//2017/03/24/1ae10fc599b4e346ed60ac6ed74d65dd031502.jpg"
+		],
+		"pcid": "1001",
+		"pReleaseDate": "1970-01-01",
+		"pConf": [
+			{
+				"type": 1,
+				"cGroupName": "",
+				"cGroupAliasName": "",
+				"cName": "是否重复获奖",
+				"cAliasName": "repeat",
+				"cDataType": "radio",
+				"cDataExt": [
+					{
+						"v": true,
+						"n": "是"
+					},
+					{
+						"v": false,
+						"n": "否"
+					}
+				],
+				"cDesc": "是（即用户可反复挑战得奖），可设置用户玩游戏时间（从用户玩游戏开始算起，比如：挑战赛时间是10分钟，A用户从8：00开始玩，则8.11时，A用户当天就不能再次挑战，B用户从13：00开始挑战，13：11时，B用户当天就不能再次挑战。） 否（即用户当天玩游戏只能挑战一次，且根据挑战的分数只能匹配一次奖品）。"
+			},
+			{
+				"type": 1,
+				"cGroupName": "",
+				"cGroupAliasName": "",
+				"cName": "游戏时间",
+				"cAliasName": "game_time",
+				"cDataType": "date",
+				"cDataExt": null,
+				"cDesc": "勾选重复后显示，数字，0——1440分钟"
+			},
+			{
+				"type": 1,
+				"cGroupName": "",
+				"cGroupAliasName": "",
+				"cName": "游戏时间",
+				"cAliasName": "gameimage",
+				"cDataType": "image",
+				"cDataExt": null,
+				"cDesc": "勾选重复后显示，数字，0——1440分钟"
+			},
+			{
+				"type": 1,
+				"cGroupName": "",
+				"cGroupAliasName": "",
+				"cName": "游戏时间",
+				"cAliasName": "gamecheckbox",
+				"cDataType": "checkbox",
+				"cDataExt": [
+					{
+						"v": true,
+						"n": "是"
+					},
+					{
+						"v": false,
+						"n": "否"
+					}
+				],
+				"cDesc": "勾选重复后显示，数字，0——1440分钟"
+			},
+			{
+				"type": 2,
+				"cGroupName": "获奖配置",
+				"cGroupAliasName": "prize",
+				"cName": "游戏分达到",
+				"cAliasName": "score",
+				"cDataType": "num",
+				"cDataExt": null,
+				"cDesc": ""
+			},
+			{
+				"type": 2,
+				"cGroupName": "获奖配置",
+				"cGroupAliasName": "prize",
+				"cName": "奖品ID",
+				"cAliasName": "template_id",
+				"cDataType": "prize",
+				"cDataExt": null,
+				"cDesc": ""
+			},
+			{
+				"type": 2,
+				"cGroupName": "获奖配置",
+				"cGroupAliasName": "prize",
+				"cName": "奖品名称",
+				"cAliasName": "template_name",
+				"cDataType": "string",
+				"cDataExt": null,
+				"cDesc": ""
+			}
+		],
+		"ptName": "消除",
+		"pcName": "海海"
+	}
+}
