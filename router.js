@@ -15,4 +15,7 @@ module.exports = function(app) {
 		console.log(JSONDATA, 'coming...');
 		res.send(JSONDATA.index);
 	})
+	app.post('/menu/add', function(req, res) {
+		
+	})
 }
